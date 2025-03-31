@@ -14,7 +14,7 @@ Converts public Github repositories into txt files that can then be used by LLMs
 
 
 ```bash
- python repo2txt <repository-url>
+ python repo2txt.py <repository-url>
 ```
 
 ### Example
