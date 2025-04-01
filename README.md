@@ -20,7 +20,7 @@ Converts public Github repositories into txt files that can then be used by LLMs
 ### Example
 
 ```bash
-python repo2txt https://github.com/username/repository
+python repo2txt.py https://github.com/username/repository
 ```
 [@M4rt1n_0x1337](https://x.com/M4rt1n_0x1337)
 
